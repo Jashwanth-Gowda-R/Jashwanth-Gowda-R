@@ -15,7 +15,7 @@
 - 💬 Ask me about Opencart or any static website related stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jashwanthgowda-6666) , [Twitter](https://twitter.com/Jash_gowda_6), **webdevjash6@gmail.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to play Cricket & Swimming.
+- ⚡ Hobbies: I love to play Cricket & Swimming.
 
 <hr>
 
@@ -38,6 +38,8 @@
 <p align="center">
   <img src="https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+![Jashwanth Gowda's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jashwanth-Gowda-R&theme=dracula)
 
 
 <hr>
