@@ -35,7 +35,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashwanth-gowda-r" alt="jashwanth-gowda-r" /></a> </p>
 
-
+<p align="center">
+  <img src="https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 <hr>
