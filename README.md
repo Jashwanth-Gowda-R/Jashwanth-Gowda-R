@@ -27,9 +27,12 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwanth-gowda-r&show_icons=true&locale=en" alt="jashwanth-gowda-r" /></p>
 
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jashwanth-Gowda-R&theme=vue-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jashwanth-Gowda-R&theme=vue-dark)
 
+
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashwanth-gowda-r" alt="jashwanth-gowda-r" /></a> </p>
 
