@@ -42,6 +42,15 @@
 
 ![Jashwanth Gowda's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jashwanth-Gowda-R&theme=dracula)
 
+---
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
 
 <hr>
 <h3 align="center">Connect With Me:</h3>
