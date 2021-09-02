@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashwanth-gowda-r&langs_count=10&show_icons=true&locale=en&layout=compact" alt="jashwanth-gowda-r" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwanth-gowda-r&show_icons=true&locale=en" alt="jashwanth-gowda-r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwanth-gowda-r&show_icons=true&locale=en&count_private=true" alt="jashwanth-gowda-r" /></p>
 
 <br>
 
