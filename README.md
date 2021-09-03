@@ -43,8 +43,9 @@
 ![Jashwanth Gowda's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jashwanth-Gowda-R&theme=dracula)
 
 ---
-
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Jashwanth-Gowda-R/codeSTACKr](https://github.com/Jashwanth-Gowda-R/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 2. 🔱 Forked [Jashwanth-Gowda-R/jamesgeorge007](https://github.com/Jashwanth-Gowda-R/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
@@ -57,7 +58,8 @@
 Last Updated: Friday, September 3rd, 2021, 6:17:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
----
+  </details>
+
 
 <hr>
 <h3 align="center">Connect With Me:</h3>
