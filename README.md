@@ -45,10 +45,9 @@
 ---
 
 ### :zap: Recent Activity
+<!--RECENT_ACTIVITY:start-->
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 
