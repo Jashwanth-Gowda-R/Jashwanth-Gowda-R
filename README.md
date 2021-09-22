@@ -2,9 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=jashwanthgowda-6666&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
+<a href="https://linkedin.com/in/jashwanthgowda-6666">
+  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 <p align="left"> <a href="https://twitter.com/jash_gowda_6" target="blank"><img src="https://img.shields.io/twitter/follow/jash_gowda_6?logo=twitter&style=for-the-badge" alt="jash_gowda_6" /></a> </p>
 
-#### SUMMARY
+**Talking about Personal Stuffs:**
+
+<img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
+
   I’m a self-taught Front-End Web Developer and Flutter Enthusiast, currently working on designing and developing ReactJS-based applications. I have the experience of building web applications using Opencart, WordPress, Ghost & Jekyll, and responsive mobile-first sites with Bootstrap and Sass.
 
 - 🔭 I’m currently working on Flutter Based Web Application!
@@ -17,6 +24,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Hobbies: I love to play Cricket & Swimming.
 
+
+  
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
