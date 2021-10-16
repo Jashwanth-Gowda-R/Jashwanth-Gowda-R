@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/webdevjash6](https://github.com/Jashwanth-Gowda-R/webdevjash6)
-2. 🔱 Forked [Jashwanth-Gowda-R/amankumar11](https://github.com/Jashwanth-Gowda-R/amankumar11) from [amankumar11/amankumar11](https://github.com/amankumar11/amankumar11)
-3. ⭐ Starred [Azure-Samples/ms-identity-python-django-tutorial](https://github.com/Azure-Samples/ms-identity-python-django-tutorial)
-4. 📔 Created new repository [Jashwanth-Gowda-R/React-Crash-Course](https://github.com/Jashwanth-Gowda-R/React-Crash-Course)
+1. 📔 Created new repository [Jashwanth-Gowda-R/appMakingAcademyCourses](https://github.com/Jashwanth-Gowda-R/appMakingAcademyCourses)
+2. 📔 Created new repository [Jashwanth-Gowda-R/webdevjash6](https://github.com/Jashwanth-Gowda-R/webdevjash6)
+3. 🔱 Forked [Jashwanth-Gowda-R/amankumar11](https://github.com/Jashwanth-Gowda-R/amankumar11) from [amankumar11/amankumar11](https://github.com/amankumar11/amankumar11)
+4. ⭐ Starred [Azure-Samples/ms-identity-python-django-tutorial](https://github.com/Azure-Samples/ms-identity-python-django-tutorial)
 5. 📔 Created new repository [Jashwanth-Gowda-R/React-Crash-Course](https://github.com/Jashwanth-Gowda-R/React-Crash-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 16th, 2021, 9:13:28 AM
+Last Updated: Saturday, October 16th, 2021, 9:38:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
