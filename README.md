@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/appMakingAcademyCourses](https://github.com/Jashwanth-Gowda-R/appMakingAcademyCourses)
-2. 📔 Created new repository [Jashwanth-Gowda-R/webdevjash6](https://github.com/Jashwanth-Gowda-R/webdevjash6)
-3. 🔱 Forked [Jashwanth-Gowda-R/amankumar11](https://github.com/Jashwanth-Gowda-R/amankumar11) from [amankumar11/amankumar11](https://github.com/amankumar11/amankumar11)
-4. ⭐ Starred [Azure-Samples/ms-identity-python-django-tutorial](https://github.com/Azure-Samples/ms-identity-python-django-tutorial)
-5. 📔 Created new repository [Jashwanth-Gowda-R/React-Crash-Course](https://github.com/Jashwanth-Gowda-R/React-Crash-Course)
+1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-Grocery-App](https://github.com/Jashwanth-Gowda-R/flutter-Grocery-App)
+2. 📔 Created new repository [Jashwanth-Gowda-R/appMakingAcademyCourses](https://github.com/Jashwanth-Gowda-R/appMakingAcademyCourses)
+3. 📔 Created new repository [Jashwanth-Gowda-R/webdevjash6](https://github.com/Jashwanth-Gowda-R/webdevjash6)
+4. 🔱 Forked [Jashwanth-Gowda-R/amankumar11](https://github.com/Jashwanth-Gowda-R/amankumar11) from [amankumar11/amankumar11](https://github.com/amankumar11/amankumar11)
+5. ⭐ Starred [Azure-Samples/ms-identity-python-django-tutorial](https://github.com/Azure-Samples/ms-identity-python-django-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 8th, 2021, 4:23:40 PM
+Last Updated: Monday, November 8th, 2021, 5:00:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
