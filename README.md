@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-2. 📔 Created new repository [Jashwanth-Gowda-R/docker-course](https://github.com/Jashwanth-Gowda-R/docker-course)
-3. 📔 Created new repository [Jashwanth-Gowda-R/Node.js-Crash-Course](https://github.com/Jashwanth-Gowda-R/Node.js-Crash-Course)
-4. 📔 Created new repository [Jashwanth-Gowda-R/flutter-Grocery-App](https://github.com/Jashwanth-Gowda-R/flutter-Grocery-App)
-5. 📔 Created new repository [Jashwanth-Gowda-R/appMakingAcademyCourses](https://github.com/Jashwanth-Gowda-R/appMakingAcademyCourses)
+1. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+2. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+3. 📔 Created new repository [Jashwanth-Gowda-R/docker-course](https://github.com/Jashwanth-Gowda-R/docker-course)
+4. 📔 Created new repository [Jashwanth-Gowda-R/Node.js-Crash-Course](https://github.com/Jashwanth-Gowda-R/Node.js-Crash-Course)
+5. 📔 Created new repository [Jashwanth-Gowda-R/flutter-Grocery-App](https://github.com/Jashwanth-Gowda-R/flutter-Grocery-App)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 29th, 2021, 5:45:23 PM
+Last Updated: Wednesday, December 29th, 2021, 6:18:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
