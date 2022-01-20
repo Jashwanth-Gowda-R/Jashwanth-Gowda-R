@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
-2. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-3. 📔 Created new repository [Jashwanth-Gowda-R/docker-course](https://github.com/Jashwanth-Gowda-R/docker-course)
-4. 📔 Created new repository [Jashwanth-Gowda-R/Node.js-Crash-Course](https://github.com/Jashwanth-Gowda-R/Node.js-Crash-Course)
-5. 📔 Created new repository [Jashwanth-Gowda-R/flutter-Grocery-App](https://github.com/Jashwanth-Gowda-R/flutter-Grocery-App)
+1. ⭐ Starred [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)
+2. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+3. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
+4. 📔 Created new repository [Jashwanth-Gowda-R/docker-course](https://github.com/Jashwanth-Gowda-R/docker-course)
+5. 📔 Created new repository [Jashwanth-Gowda-R/Node.js-Crash-Course](https://github.com/Jashwanth-Gowda-R/Node.js-Crash-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 20th, 2022, 1:01:20 AM
+Last Updated: Thursday, January 20th, 2022, 2:24:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
