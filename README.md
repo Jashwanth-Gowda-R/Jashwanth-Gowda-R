@@ -56,15 +56,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-advertising-app](https://github.com/Jashwanth-Gowda-R/flutter-advertising-app)
-2. ⭐ Starred [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)
-3. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
-4. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
-5. 📔 Created new repository [Jashwanth-Gowda-R/docker-course](https://github.com/Jashwanth-Gowda-R/docker-course)
+1. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Google-Clone](https://github.com/Jashwanth-Gowda-R/Flutter-Google-Clone)
+2. 📔 Created new repository [Jashwanth-Gowda-R/flutter-advertising-app](https://github.com/Jashwanth-Gowda-R/flutter-advertising-app)
+3. ⭐ Starred [FirebaseExtended/flutterfire](https://github.com/FirebaseExtended/flutterfire)
+4. ⭐ Starred [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks)
+5. ⭐ Starred [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 5:15:29 PM
+Last Updated: Saturday, January 22nd, 2022, 5:37:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
