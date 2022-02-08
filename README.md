@@ -75,8 +75,10 @@ Last Updated: Tuesday, February 8th, 2022, 3:14:45 PM
 <hr>
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
+<a href="https://dev.to/jashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jashwanth" height="30" width="40" /></a>
 <a href="https://twitter.com/jash_gowda_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jash_gowda_6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jashwanthgowda-6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jashwanthgowda-6666" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17830819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17830819" height="30" width="40" /></a>
 </p>
 <hr>
 
