@@ -4,9 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jashwanthgowda-6666&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-<a href="https://linkedin.com/in/jashwanthgowda-6666">
-  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a href="https://linkedin.com/in/jashwanthgowda-6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jashwanthgowda-6666" height="30" width="40" /></a>
 
 <p align="left"> <a href="https://twitter.com/jash_gowda_6" target="blank"><img src="https://img.shields.io/twitter/follow/jash_gowda_6?logo=twitter&style=for-the-badge" alt="jash_gowda_6" /></a> </p>
 
