@@ -22,7 +22,7 @@
 - 🥅 My 2022-23 Goals: Contribute more to Open Source projects and Work more on Flutter Projects. 
 - 🤔 I’m looking for help with Flutter Learning.
 - 💬 Ask me about Opencart or any static website related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jashwanthgowda-6666) , [Twitter](https://twitter.com/Jash_gowda_6), **webdevjash6@gmail.com**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jashwanthgowda-6666) , [Twitter](https://twitter.com/Jash_gowda_6), My email Id: **webdevjash6@gmail.com**
 - 😄 Pronouns: He/His
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q0NuGUj1thCucWClkB0EXNmV04UGdusC/view?usp=sharing)
 - ⚡ Hobbies: I love to play Cricket & Swimming.
