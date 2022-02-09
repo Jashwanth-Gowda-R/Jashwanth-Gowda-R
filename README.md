@@ -12,7 +12,7 @@
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
 
-  I’m a self-taught Software Engineer and Flutter Developer, currently working on Designing and Developing Flutter-based Applications. I have the experience of building Web Applications using ReactJs,Opencart, WordPress, Ghost & Jekyll, and Responsive mobile-first sites with Bootstrap & Sass and Mobile Applications for both Android and iOS using Flutter.
+  I’m a self-taught Software Engineer and Flutter Developer, currently working on Designing and Developing Flutter-based Applications. I have the experience of building Web Applications using Flutter, ReactJs, Opencart, WordPress, Ghost & Jekyll, and Responsive mobile-first sites with Bootstrap & Sass and Mobile Applications for both Android and iOS using Flutter.
 
 - 🔭 I’m currently working on Flutter Based Web Application!
 - 🌱 I’m currently learning Flutter!
