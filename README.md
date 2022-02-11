@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
-2. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
-3. ⭐ Starred [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
-4. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Google-Clone](https://github.com/Jashwanth-Gowda-R/Flutter-Google-Clone)
-5. 📔 Created new repository [Jashwanth-Gowda-R/flutter-advertising-app](https://github.com/Jashwanth-Gowda-R/flutter-advertising-app)
+1. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+2. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
+3. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
+4. ⭐ Starred [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
+5. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Google-Clone](https://github.com/Jashwanth-Gowda-R/Flutter-Google-Clone)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 10th, 2022, 5:15:00 PM
+Last Updated: Friday, February 11th, 2022, 4:47:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
