@@ -14,7 +14,7 @@
 
   I’m a self-taught Software Engineer and Flutter Developer, currently working on Designing and Developing Flutter-based Applications. I have the experience of building Web Applications using Flutter, ReactJs, Opencart, WordPress, Ghost & Jekyll, and Responsive mobile-first sites with Bootstrap & Sass and Mobile Applications for both Android and iOS using Flutter.
 
-- 🔭 I’m currently working on Flutter Based Web Application!
+- 🔭 I’m currently working on Flutter Web Application!
 - 🌱 I’m currently learning Flutter!
 - 👯 I’m looking to collaborate with Other Flutter Developers and Flutter Projects.
 - 🥅 My 2022-23 Goals: Contribute more to Open Source projects and Work more on Flutter Projects. 
