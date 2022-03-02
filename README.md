@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-2. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
-3. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
-4. ⭐ Starred [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
-5. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Google-Clone](https://github.com/Jashwanth-Gowda-R/Flutter-Google-Clone)
+1. ⭐ Starred [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications)
+2. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+3. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
+4. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
+5. ⭐ Starred [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 2nd, 2022, 7:14:34 AM
+Last Updated: Wednesday, March 2nd, 2022, 7:35:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
