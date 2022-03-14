@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-rn-module](https://github.com/Jashwanth-Gowda-R/flutter-rn-module)
-2. ⭐ Starred [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications)
-3. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
-5. ⭐ Starred [flutter/flutter](https://github.com/flutter/flutter)
+1. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-](https://github.com/Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-)
+2. 📔 Created new repository [Jashwanth-Gowda-R/flutter-rn-module](https://github.com/Jashwanth-Gowda-R/flutter-rn-module)
+3. ⭐ Starred [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications)
+4. ⭐ Starred [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. 📔 Created new repository [Jashwanth-Gowda-R/my-awesome-dev-portfolio](https://github.com/Jashwanth-Gowda-R/my-awesome-dev-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 14th, 2022, 4:22:52 PM
+Last Updated: Monday, March 14th, 2022, 4:55:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
