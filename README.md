@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. ⭐ Starred [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
-3. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-](https://github.com/Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-)
-4. 📔 Created new repository [Jashwanth-Gowda-R/flutter-rn-module](https://github.com/Jashwanth-Gowda-R/flutter-rn-module)
-5. ⭐ Starred [MaikuB/flutter_local_notifications](https://github.com/MaikuB/flutter_local_notifications)
+1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+3. ⭐ Starred [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+4. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-](https://github.com/Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-)
+5. 📔 Created new repository [Jashwanth-Gowda-R/flutter-rn-module](https://github.com/Jashwanth-Gowda-R/flutter-rn-module)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 4th, 2022, 4:58:19 PM
+Last Updated: Monday, April 4th, 2022, 5:25:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
