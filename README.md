@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-mynotes-app](https://github.com/Jashwanth-Gowda-R/flutter-mynotes-app)
-2. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-4. ⭐ Starred [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
-5. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-](https://github.com/Jashwanth-Gowda-R/Flutter-Whatsapp-Clone-)
+1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 📔 Created new repository [Jashwanth-Gowda-R/flutter-mynotes-app](https://github.com/Jashwanth-Gowda-R/flutter-mynotes-app)
+3. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+5. ⭐ Starred [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 10th, 2022, 7:12:42 PM
+Last Updated: Sunday, April 10th, 2022, 7:35:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
