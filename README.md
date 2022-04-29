@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 📔 Created new repository [Jashwanth-Gowda-R/flutter-mynotes-app](https://github.com/Jashwanth-Gowda-R/flutter-mynotes-app)
-3. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-5. ⭐ Starred [fluttercommunity/plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+1. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 📔 Created new repository [Jashwanth-Gowda-R/flutter-mynotes-app](https://github.com/Jashwanth-Gowda-R/flutter-mynotes-app)
+4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 29th, 2022, 3:18:05 PM
+Last Updated: Friday, April 29th, 2022, 3:43:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
