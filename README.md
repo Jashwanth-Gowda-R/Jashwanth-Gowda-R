@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-2. 📔 Created new repository [Jashwanth-Gowda-R/react-netninja](https://github.com/Jashwanth-Gowda-R/react-netninja)
-3. 📔 Created new repository [Jashwanth-Gowda-R/dart-course](https://github.com/Jashwanth-Gowda-R/dart-course)
-4. ⭐ Starred [bizz84/dart-course-materials](https://github.com/bizz84/dart-course-materials)
-5. ⭐ Starred [ellie/atuin](https://github.com/ellie/atuin)
+1. ⭐ Starred [bizz84/flutter-tips-and-tricks](https://github.com/bizz84/flutter-tips-and-tricks)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. 📔 Created new repository [Jashwanth-Gowda-R/react-netninja](https://github.com/Jashwanth-Gowda-R/react-netninja)
+4. 📔 Created new repository [Jashwanth-Gowda-R/dart-course](https://github.com/Jashwanth-Gowda-R/dart-course)
+5. ⭐ Starred [bizz84/dart-course-materials](https://github.com/bizz84/dart-course-materials)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 12th, 2022, 6:20:25 PM
+Last Updated: Tuesday, July 12th, 2022, 6:47:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
