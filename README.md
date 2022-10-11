@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-2. ⭐ Starred [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-3. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
-5. ⭐ Starred [bizz84/flutter-tips-and-tricks](https://github.com/bizz84/flutter-tips-and-tricks)
+1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+2. ⭐ Starred [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+3. ⭐ Starred [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+4. ⭐ Starred [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 11th, 2022, 5:55:57 PM
+Last Updated: Tuesday, October 11th, 2022, 6:30:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
