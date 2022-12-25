@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Jashwanth-Gowda-R/complete-flutter-course](https://github.com/Jashwanth-Gowda-R/complete-flutter-course) from [bizz84/complete-flutter-course](https://github.com/bizz84/complete-flutter-course)
-2. ⭐ Starred [AlDanial/cloc](https://github.com/AlDanial/cloc)
-3. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package](https://github.com/Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package)
-4. ⭐ Starred [bizz84/complete-flutter-course](https://github.com/bizz84/complete-flutter-course)
-5. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+1. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+2. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+3. 🔱 Forked [Jashwanth-Gowda-R/complete-flutter-course](https://github.com/Jashwanth-Gowda-R/complete-flutter-course) from [bizz84/complete-flutter-course](https://github.com/bizz84/complete-flutter-course)
+4. ⭐ Starred [AlDanial/cloc](https://github.com/AlDanial/cloc)
+5. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package](https://github.com/Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 25th, 2022, 5:11:26 PM
+Last Updated: Sunday, December 25th, 2022, 5:35:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
