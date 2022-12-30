@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
-2. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
-3. 🔱 Forked [Jashwanth-Gowda-R/complete-flutter-course](https://github.com/Jashwanth-Gowda-R/complete-flutter-course) from [bizz84/complete-flutter-course](https://github.com/bizz84/complete-flutter-course)
-4. ⭐ Starred [AlDanial/cloc](https://github.com/AlDanial/cloc)
-5. 📔 Created new repository [Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package](https://github.com/Jashwanth-Gowda-R/Flutter-Foundations-Course---Complete-Package)
+1. ⭐ Starred [bizz84/layout-demo-flutter](https://github.com/bizz84/layout-demo-flutter)
+2. ⭐ Starred [bizz84/flutter_example_apps](https://github.com/bizz84/flutter_example_apps)
+3. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+4. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+5. 🔱 Forked [Jashwanth-Gowda-R/complete-flutter-course](https://github.com/Jashwanth-Gowda-R/complete-flutter-course) from [bizz84/complete-flutter-course](https://github.com/bizz84/complete-flutter-course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 30th, 2022, 11:35:20 AM
+Last Updated: Friday, December 30th, 2022, 12:24:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
