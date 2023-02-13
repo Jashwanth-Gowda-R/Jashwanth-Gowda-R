@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/codewithbas/resume/pull/1) in [codewithbas/resume](https://github.com/codewithbas/resume)
-2. 🎉 Merged PR [#1](https://github.com/Jashwanth-Gowda-R/resume/pull/1) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-3. 💪 Opened PR [#1](https://github.com/Jashwanth-Gowda-R/resume/pull/1) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-4. 💪 Opened PR [#1](https://github.com/codewithbas/resume/pull/1) in [codewithbas/resume](https://github.com/codewithbas/resume)
-5. 🔱 Forked [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume) from [codewithbas/resume](https://github.com/codewithbas/resume)
+1. 🎉 Merged PR [#4](https://github.com/Jashwanth-Gowda-R/resume/pull/4) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+2. 💪 Opened PR [#4](https://github.com/Jashwanth-Gowda-R/resume/pull/4) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+3. 🎉 Merged PR [#3](https://github.com/Jashwanth-Gowda-R/resume/pull/3) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+4. 💪 Opened PR [#3](https://github.com/Jashwanth-Gowda-R/resume/pull/3) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+5. 🎉 Merged PR [#2](https://github.com/Jashwanth-Gowda-R/resume/pull/2) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 5:36:06 PM
+Last Updated: Monday, February 13th, 2023, 6:18:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
