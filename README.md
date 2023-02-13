@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume) from [codewithbas/resume](https://github.com/codewithbas/resume)
-2. ⭐ Starred [beatrizmilz/resume](https://github.com/beatrizmilz/resume)
-3. 📔 Created new repository [Jashwanth-Gowda-R/flutter-animation-course](https://github.com/Jashwanth-Gowda-R/flutter-animation-course)
-4. ⭐ Starred [husbycodereis/stopwatch_animation](https://github.com/husbycodereis/stopwatch_animation)
-5. ⭐ Starred [bizz84/layout-demo-flutter](https://github.com/bizz84/layout-demo-flutter)
+1. ❌ Closed PR [#1](https://github.com/codewithbas/resume/pull/1) in [codewithbas/resume](https://github.com/codewithbas/resume)
+2. 🎉 Merged PR [#1](https://github.com/Jashwanth-Gowda-R/resume/pull/1) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+3. 💪 Opened PR [#1](https://github.com/Jashwanth-Gowda-R/resume/pull/1) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+4. 💪 Opened PR [#1](https://github.com/codewithbas/resume/pull/1) in [codewithbas/resume](https://github.com/codewithbas/resume)
+5. 🔱 Forked [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume) from [codewithbas/resume](https://github.com/codewithbas/resume)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 5:13:50 PM
+Last Updated: Monday, February 13th, 2023, 5:36:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
