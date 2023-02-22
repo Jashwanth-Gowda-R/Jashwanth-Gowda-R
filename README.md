@@ -57,15 +57,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flutterkit/zerker](https://github.com/flutterkit/zerker)
-2. 🎉 Merged PR [#8](https://github.com/Jashwanth-Gowda-R/resume/pull/8) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-3. 💪 Opened PR [#8](https://github.com/Jashwanth-Gowda-R/resume/pull/8) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-4. 🎉 Merged PR [#7](https://github.com/Jashwanth-Gowda-R/resume/pull/7) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-5. 💪 Opened PR [#7](https://github.com/Jashwanth-Gowda-R/resume/pull/7) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+1. ⭐ Starred [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+2. ⭐ Starred [flutterkit/zerker](https://github.com/flutterkit/zerker)
+3. 🎉 Merged PR [#8](https://github.com/Jashwanth-Gowda-R/resume/pull/8) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+4. 💪 Opened PR [#8](https://github.com/Jashwanth-Gowda-R/resume/pull/8) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+5. 🎉 Merged PR [#7](https://github.com/Jashwanth-Gowda-R/resume/pull/7) in [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 22nd, 2023, 1:39:11 PM
+Last Updated: Wednesday, February 22nd, 2023, 2:13:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   </details>
