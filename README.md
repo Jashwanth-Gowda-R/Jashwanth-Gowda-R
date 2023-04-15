@@ -1,17 +1,12 @@
 <hr>
 
-
 ![Jashwanth Gowda Banner Image](./banner.jpeg)
-
-
 
 
 ### Hey , I'm Jashwanth Gowda!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
 
 <h4>:zap: A Passionate Flutter Developer from India.</h4>
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=jashwanthgowda-6666&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
@@ -105,10 +100,7 @@
 Last Updated: Saturday, April 15th, 2023, 8:15:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
  </details>
-
-
 
 
 <hr>
