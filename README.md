@@ -1,3 +1,5 @@
+![Jashwanth Gowda Banner Image](./banner.jpeg)
+
 ### Hey , I'm Jashwanth Gowda!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
 <h4>A Passionate Flutter Developer from India.</h4>
@@ -12,17 +14,17 @@
 
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
 
-  I’m a self-taught Software Engineer and Flutter Developer, currently working on Designing and Developing Flutter-based Applications. I have the experience of building Web Applications using Flutter, ReactJs, Opencart, WordPress, Ghost & Jekyll, and Responsive mobile-first sites with Bootstrap & Sass and Mobile Applications for both Android and iOS using Flutter.
+  I am a self-taught Front-end Engineer with more than 2 years of industry experience. I am currently focusing on building both mobile and web applications using Flutter.
 
-- 🔭 I’m currently working on Flutter Web Application!
+- 🔭 I’m currently working on Flutter Based Application!
 - 🌱 I’m currently learning Flutter!
 - 👯 I’m looking to collaborate with Other Flutter Developers and Flutter Projects.
-- 🥅 My 2022-23 Goals: Contribute more to Open Source projects and Work more on Flutter Projects. 
+- 🥅 My 2023-24 Goals: Contribute more to Open Source projects and Work more on Flutter Projects. 
 - 🤔 I’m looking for help with Flutter Learning.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jashwanthgowda-6666) , [Twitter](https://twitter.com/Jash_gowda_6), My email Id: **webdevjash6@gmail.com**
 - 😄 Pronouns: He/His
 - 📄 Know about my experiences,checkout my [Resume](https://drive.google.com/file/d/1q0NuGUj1thCucWClkB0EXNmV04UGdusC/view?usp=sharing) here.
-- ⚡ Hobbies: I love to play Cricket & Swimming.
+- ⚡ Hobbies: Cricket, Fitness, Travelling, Coding & Swimming.
 <!-- - 💬 Ask me about Opencart or any static website related stuff. -->
 
 
