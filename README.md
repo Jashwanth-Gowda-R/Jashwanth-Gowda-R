@@ -88,16 +88,16 @@
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jashwanth-Gowda-R/flutter_dev_folio](https://github.com/Jashwanth-Gowda-R/flutter_dev_folio)
-2. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
-3. ⭐ Starred [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
-4. 🔱 Forked [Jashwanth-Gowda-R/flutter_dev_folio](https://github.com/Jashwanth-Gowda-R/flutter_dev_folio) from [danger-ahead/flutter_dev_folio](https://github.com/danger-ahead/flutter_dev_folio)
-5. ⭐ Starred [danger-ahead/flutter_dev_folio](https://github.com/danger-ahead/flutter_dev_folio)
+1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant](https://github.com/Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant)
+2. ⭐ Starred [Jashwanth-Gowda-R/flutter_dev_folio](https://github.com/Jashwanth-Gowda-R/flutter_dev_folio)
+3. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+4. ⭐ Starred [Jashwanth-Gowda-R/resume](https://github.com/Jashwanth-Gowda-R/resume)
+5. 🔱 Forked [Jashwanth-Gowda-R/flutter_dev_folio](https://github.com/Jashwanth-Gowda-R/flutter_dev_folio) from [danger-ahead/flutter_dev_folio](https://github.com/danger-ahead/flutter_dev_folio)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 8:35:59 AM
+Last Updated: Monday, May 8th, 2023, 9:13:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
