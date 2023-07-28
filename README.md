@@ -88,16 +88,16 @@
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/flutter_todo_app](https://github.com/Jashwanth-Gowda-R/flutter_todo_app)
-2. 📔 Created new repository [Jashwanth-Gowda-R/flutter_shoe_app](https://github.com/Jashwanth-Gowda-R/flutter_shoe_app)
-3. 📔 Created new repository [Jashwanth-Gowda-R/weather_app](https://github.com/Jashwanth-Gowda-R/weather_app)
-4. 📔 Created new repository [Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant](https://github.com/Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant)
-5. ⭐ Starred [Jashwanth-Gowda-R/Jashwanth-Gowda-R](https://github.com/Jashwanth-Gowda-R/Jashwanth-Gowda-R)
+1. 📔 Created new repository [Jashwanth-Gowda-R/Hyperhire-assignment](https://github.com/Jashwanth-Gowda-R/Hyperhire-assignment)
+2. 📔 Created new repository [Jashwanth-Gowda-R/flutter_todo_app](https://github.com/Jashwanth-Gowda-R/flutter_todo_app)
+3. 📔 Created new repository [Jashwanth-Gowda-R/flutter_shoe_app](https://github.com/Jashwanth-Gowda-R/flutter_shoe_app)
+4. 📔 Created new repository [Jashwanth-Gowda-R/weather_app](https://github.com/Jashwanth-Gowda-R/weather_app)
+5. 📔 Created new repository [Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant](https://github.com/Jashwanth-Gowda-R/flutter-chatGPT-voiceAssistant)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 28th, 2023, 6:35:29 AM
+Last Updated: Friday, July 28th, 2023, 7:11:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
