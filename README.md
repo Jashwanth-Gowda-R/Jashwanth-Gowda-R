@@ -88,16 +88,16 @@
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-2. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
-3. 📔 Created new repository [Jashwanth-Gowda-R/Hyperhire-assignment](https://github.com/Jashwanth-Gowda-R/Hyperhire-assignment)
-4. 📔 Created new repository [Jashwanth-Gowda-R/flutter_todo_app](https://github.com/Jashwanth-Gowda-R/flutter_todo_app)
-5. 📔 Created new repository [Jashwanth-Gowda-R/flutter_shoe_app](https://github.com/Jashwanth-Gowda-R/flutter_shoe_app)
+1. 📔 Created new repository [Jashwanth-Gowda-R/latex-myResume](https://github.com/Jashwanth-Gowda-R/latex-myResume)
+2. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+3. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
+4. 📔 Created new repository [Jashwanth-Gowda-R/Hyperhire-assignment](https://github.com/Jashwanth-Gowda-R/Hyperhire-assignment)
+5. 📔 Created new repository [Jashwanth-Gowda-R/flutter_todo_app](https://github.com/Jashwanth-Gowda-R/flutter_todo_app)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 1:35:23 PM
+Last Updated: Monday, September 18th, 2023, 2:12:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
