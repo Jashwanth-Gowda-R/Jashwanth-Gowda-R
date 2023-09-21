@@ -24,7 +24,7 @@
 <img width="380" align="right" alt="GIF" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"  />
 
 
- I am a self-taught Front-end Engineer with more than 2 years of industry experience. I am currently focusing on building both mobile and web applications using Flutter.
+I am an experienced Flutter software developer with 3 years of industry expertise. I am proficient in building cross-platform applications and delivering user-centric solutions.
 
 
 - 🔭 I’m currently working on Flutter Based Application!
@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate with Other Flutter Developers and Flutter Projects.
 - 🥅 My 2023-24 Goals: Contribute more to Open Source projects and Work more on Flutter Projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jashwanthgowda-6666) , [Twitter](https://twitter.com/Jash_gowda_6), My email Id: **webdevjash6@gmail.com**
-- 📄 Know about my experiences,checkout my [Resume](https://drive.google.com/file/d/1aqUZrsTn6N6IvNQu566NijvIIFKbXZLv/view?usp=share_link) here.
+- 📄 Know about my experiences,checkout my [Resume](https://drive.google.com/file/d/1TLp3FMw-O7pjiuBKFw8YqA8aGLrIV692/view?usp=sharing) here.
 - ⚡ Hobbies: Cricket, Fitness, Travelling, Coding & Swimming.
 - 😄 Pronouns: He/His
 <!-- - 💬 Ask me about Opencart or any static website related stuff. -->
