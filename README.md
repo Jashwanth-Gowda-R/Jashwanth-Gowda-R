@@ -88,16 +88,16 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/latex-myResume](https://github.com/Jashwanth-Gowda-R/latex-myResume)
-2. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-3. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
-4. 📔 Created new repository [Jashwanth-Gowda-R/Hyperhire-assignment](https://github.com/Jashwanth-Gowda-R/Hyperhire-assignment)
-5. 📔 Created new repository [Jashwanth-Gowda-R/flutter_todo_app](https://github.com/Jashwanth-Gowda-R/flutter_todo_app)
+1. 📔 Created new repository [Jashwanth-Gowda-R/my_flutter_widgets](https://github.com/Jashwanth-Gowda-R/my_flutter_widgets)
+2. 📔 Created new repository [Jashwanth-Gowda-R/latex-myResume](https://github.com/Jashwanth-Gowda-R/latex-myResume)
+3. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
+4. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
+5. 📔 Created new repository [Jashwanth-Gowda-R/Hyperhire-assignment](https://github.com/Jashwanth-Gowda-R/Hyperhire-assignment)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 28th, 2023, 10:35:18 AM
+Last Updated: Saturday, October 28th, 2023, 11:09:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
