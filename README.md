@@ -88,8 +88,8 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Jashwanth-Gowda-R/flutter-Stacked-Architecture-Todo-App-](https://github.com/Jashwanth-Gowda-R/flutter-Stacked-Architecture-Todo-App-)
-2. 📔 Created new repository [Jashwanth-Gowda-R/TechNewzApp-flutter](https://github.com/Jashwanth-Gowda-R/TechNewzApp-flutter)
+1. ⭐ Starred [tegonhq/tegon](https://github.com/tegonhq/tegon)
+2. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)
 3. 📔 Created new repository [Jashwanth-Gowda-R/my_flutter_widgets](https://github.com/Jashwanth-Gowda-R/my_flutter_widgets)
 4. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
 5. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
@@ -97,7 +97,7 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 12th, 2024, 3:15:06 PM
+Last Updated: Friday, July 12th, 2024, 3:35:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
