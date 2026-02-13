@@ -88,16 +88,16 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sagnik150699/paulina_knop](https://github.com/sagnik150699/paulina_knop)
-2. ⭐ Starred [darrenburns/posting](https://github.com/darrenburns/posting)
-3. 📔 Created new repository [Jashwanth-Gowda-R/my_flutter_widgets](https://github.com/Jashwanth-Gowda-R/my_flutter_widgets)
-4. ⭐ Starred [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap)
-5. 📔 Created new repository [Jashwanth-Gowda-R/eLearning](https://github.com/Jashwanth-Gowda-R/eLearning)
+1. ⭐ Starred [RivaanRanawat/whatsapp-flutter-ui](https://github.com/RivaanRanawat/whatsapp-flutter-ui)
+2. ⭐ Starred [RivaanRanawat/flutter-whatsapp-clone](https://github.com/RivaanRanawat/flutter-whatsapp-clone)
+3. ⭐ Starred [RivaanRanawat/flutter-reddit-clone](https://github.com/RivaanRanawat/flutter-reddit-clone)
+4. ⭐ Starred [RivaanRanawat/blog-app-clean-architecture](https://github.com/RivaanRanawat/blog-app-clean-architecture)
+5. ⭐ Starred [RivaanRanawat/flutter-spotify-clone-tutorial](https://github.com/RivaanRanawat/flutter-spotify-clone-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 13th, 2026, 5:58:34 AM
+Last Updated: Friday, February 13th, 2026, 7:09:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
