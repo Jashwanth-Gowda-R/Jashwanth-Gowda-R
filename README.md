@@ -88,16 +88,16 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jashwanth-Gowda-R/dynamic_ui_renderer](https://github.com/Jashwanth-Gowda-R/dynamic_ui_renderer)
-2. ⭐ Starred [RivaanRanawat/whatsapp-flutter-ui](https://github.com/RivaanRanawat/whatsapp-flutter-ui)
-3. ⭐ Starred [RivaanRanawat/flutter-whatsapp-clone](https://github.com/RivaanRanawat/flutter-whatsapp-clone)
-4. ⭐ Starred [RivaanRanawat/flutter-reddit-clone](https://github.com/RivaanRanawat/flutter-reddit-clone)
-5. ⭐ Starred [RivaanRanawat/blog-app-clean-architecture](https://github.com/RivaanRanawat/blog-app-clean-architecture)
+1. ⭐ Starred [ServeDynamicUI/serve_dynamic_ui](https://github.com/ServeDynamicUI/serve_dynamic_ui)
+2. ⭐ Starred [Jashwanth-Gowda-R/dynamic_ui_renderer](https://github.com/Jashwanth-Gowda-R/dynamic_ui_renderer)
+3. ⭐ Starred [RivaanRanawat/whatsapp-flutter-ui](https://github.com/RivaanRanawat/whatsapp-flutter-ui)
+4. ⭐ Starred [RivaanRanawat/flutter-whatsapp-clone](https://github.com/RivaanRanawat/flutter-whatsapp-clone)
+5. ⭐ Starred [RivaanRanawat/flutter-reddit-clone](https://github.com/RivaanRanawat/flutter-reddit-clone)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 19th, 2026, 9:09:45 AM
+Last Updated: Thursday, February 19th, 2026, 10:09:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
