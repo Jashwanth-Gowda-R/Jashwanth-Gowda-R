@@ -88,8 +88,8 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ServeDynamicUI/serve_dynamic_ui](https://github.com/ServeDynamicUI/serve_dynamic_ui)
-2. ⭐ Starred [Jashwanth-Gowda-R/dynamic_ui_renderer](https://github.com/Jashwanth-Gowda-R/dynamic_ui_renderer)
+1. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+2. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
 3. ⭐ Starred [RivaanRanawat/whatsapp-flutter-ui](https://github.com/RivaanRanawat/whatsapp-flutter-ui)
 4. ⭐ Starred [RivaanRanawat/flutter-whatsapp-clone](https://github.com/RivaanRanawat/flutter-whatsapp-clone)
 5. ⭐ Starred [RivaanRanawat/flutter-reddit-clone](https://github.com/RivaanRanawat/flutter-reddit-clone)
@@ -97,7 +97,7 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 15th, 2026, 4:04:42 PM
+Last Updated: Wednesday, April 15th, 2026, 5:37:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
