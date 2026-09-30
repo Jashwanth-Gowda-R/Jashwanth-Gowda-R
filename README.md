@@ -88,8 +88,8 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)
-2. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)
+1. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+2. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
 3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)
 4. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 5. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
@@ -97,7 +97,7 @@ I am an experienced Flutter software developer with 3 years of industry expertis
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 30th, 2026, 10:38:32 AM
+Last Updated: Wednesday, September 30th, 2026, 4:40:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
  </details>
